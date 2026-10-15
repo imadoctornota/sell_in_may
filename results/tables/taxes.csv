@@ -1,0 +1,4 @@
+scenario,BH_CAGR %,HW_CAGR %,BH_final_$1,HW_final_$1,HW_minus_BH_CAGR %
+Tax-deferred account (IRA/401k),10.83,10.25,800.7984,567.8838,-0.58
+"Taxable, buy-and-hold never sold",10.37,7.9,608.5258,139.8996,-2.47
+"Taxable, buy-and-hold sold at the end",10.13,7.9,529.0374,139.8996,-2.23

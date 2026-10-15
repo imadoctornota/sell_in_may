@@ -1,0 +1,8 @@
+# Published run: Python 3.13, pandas 3.0.2, yfinance 1.7.0 (October 13, 2026)
+numpy
+pandas>=3.0
+matplotlib
+requests
+yfinance>=1.7
+xlrd            # reads Robert Shiller's ie_data.xls
+jupyterlab

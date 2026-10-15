@@ -1,0 +1,8 @@
+period,years,source,HW_sharpe,BH_sharpe,HW_minus_BH_sharpe,beta,alpha_per_yr,info_ratio,alpha_net_10bps,maxDD_HW_vs_BH,sortino_HW_vs_BH,calmar_HW_vs_BH
+Full sample,1961-2025,"S&P total return, modeled T-bills","0.57 [0.35, 0.81]","0.47 [0.22, 0.74]","+0.10 [-0.04, +0.24]",0.47,+2.54% (t=3.02),0.34,+2.34% (t=2.78),-30% vs -51%,0.93 vs 0.69,0.34 vs 0.21
+Through 1998,1961-1998,"S&P total return, modeled T-bills","0.62 [0.31, 0.95]","0.43 [0.14, 0.74]","+0.18 [+0.01, +0.33]",0.44,+3.21% (t=2.97),0.44,+3.01% (t=2.78),-21% vs -43%,1.07 vs 0.64,0.58 vs 0.29
+After working paper (1999+),1999-2025,"S&P total return, modeled T-bills","0.51 [0.22, 0.87]","0.51 [0.08, 1.02]","-0.00 [-0.26, +0.23]",0.51,+1.56% (t=1.17),0.2,+1.36% (t=1.02),-30% vs -51%,0.79 vs 0.75,0.24 vs 0.18
+Through 2002,1961-2002,"S&P total return, modeled T-bills","0.56 [0.31, 0.86]","0.34 [0.05, 0.65]","+0.22 [+0.06, +0.37]",0.46,+3.40% (t=3.30),0.45,+3.20% (t=3.11),-21% vs -45%,0.95 vs 0.50,0.56 vs 0.24
+After journal (2003+),2003-2025,"S&P total return, modeled T-bills","0.57 [0.25, 0.98]","0.70 [0.27, 1.20]","-0.13 [-0.46, +0.17]",0.51,+0.76% (t=0.50),0.1,+0.56% (t=0.38),-30% vs -51%,0.91 vs 1.06,0.24 vs 0.22
+"Main, matched to SPY + BIL years",2008-2025,"S&P total return, modeled T-bills","0.55 [0.15, 1.13]","0.64 [0.24, 1.15]","-0.09 [-0.31, +0.19]",0.5,+1.14% (t=0.64),0.14,+0.95% (t=0.53),-30% vs -51%,0.86 vs 0.96,0.24 vs 0.21
+Observed ETFs: SPY + BIL,2008-2025,SPY and BIL adjusted closes (after fund fees),"0.56 [0.15, 1.13]","0.65 [0.24, 1.15]","-0.09 [-0.31, +0.19]",0.5,+1.14% (t=0.64),0.14,+0.95% (t=0.53),-30% vs -51%,0.87 vs 0.96,0.24 vs 0.21

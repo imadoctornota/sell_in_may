@@ -1,0 +1,5 @@
+code,strategy,final_$1,CAGR %,ann_vol %,sharpe,max_drawdown %,mean_annual %,median_annual %,worst_year %,share_years_up %
+bh,Buy and hold,800.7984,10.83,14.87,0.4662,-50.95,12.11,14.93,-36.1,81.54
+hw,"Halloween (Nov-Apr stocks, May-Oct T-bills)",567.8838,10.25,10.27,0.5671,-30.1,10.8,10.93,-11.64,86.15
+mix,50/50 stocks/T-bills (same average exposure),145.7319,7.97,7.44,0.4662,-28.44,8.29,8.5,-18.62,86.15
+cash,T-bills only,18.3609,4.58,0.93,,0.0,4.63,4.7,0.01,100.0

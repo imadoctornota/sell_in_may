@@ -1,0 +1,11 @@
+months,mean_premium_gap %,mean_adv_vs_BH %
+"Nov,Dec,Jan,Mar,Apr,Jul",6.77,-0.44
+"Nov,Dec,Jan,Mar,Apr,Oct",6.75,-0.36
+"Nov,Dec,Jan,Apr,Jul,Oct",6.66,-0.47
+"Nov,Dec,Mar,Apr,Jul,Oct",6.13,-0.67
+"Nov,Jan,Mar,Apr,Jul,Oct",6.04,-0.78
+"Nov,Dec,Jan,Mar,Jul,Oct",5.84,-0.87
+"Nov,Dec,Jan,Mar,Apr,May",5.63,-1.02
+"Nov,Dec,Jan,Apr,May,Jul",5.56,-0.99
+"Nov,Dec,Jan,Apr,May,Oct",5.52,-0.97
+"Nov,Dec,Jan,Mar,Apr,Aug",5.35,-1.08

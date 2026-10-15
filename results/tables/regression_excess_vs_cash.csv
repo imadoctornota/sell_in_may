@@ -1,0 +1,3 @@
+term,coef_per_month,se_newey_west,z,p,coef_per_6_months_approx
+a: May-Oct simple stock excess over cash,0.0019,0.0019,0.9618,0.3361,0.0112
+b: Nov-Apr minus May-Oct monthly excess,0.0078,0.0025,3.1964,0.0014,0.0471

@@ -1,0 +1,5 @@
+sample,months,H1_gap_6m_log %,H1_p,summer_excess_6m %,summer_excess_p
+All months,780,4.76,0.0014,1.12,0.3361
+Without Oct 1987 and Aug 1998 (Maberly-Pierce),778,4.13,0.0041,1.7,0.144
+Without the 10 largest monthly moves (either half),770,3.42,0.0155,1.91,0.0855
+Winsorized at 1%/99%,780,4.38,0.0023,1.4,0.214

@@ -1,0 +1,4 @@
+rule,months_in_stocks,CAGR %,final_$1,mean_vs_BH %,lo %,hi %,p_boot,share_years_beat_BH %,mean_vs_Halloween %,vs_HW_lo %,vs_HW_hi %,vs_HW_p
+Halloween (back at end of Oct),6,10.25,567.8838,-1.31,-3.55,0.82,0.2359,33.85,,,,
+"St Leger, back at end of Aug",8,10.01,492.9206,-1.22,-3.42,0.94,0.2667,46.15,0.09,-1.68,1.76,0.9227
+"St Leger, back at end of Sep",7,11.04,901.7229,-0.35,-2.74,2.15,0.7774,35.38,0.96,-0.61,2.43,0.2145
